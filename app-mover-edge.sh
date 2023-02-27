@@ -17,7 +17,7 @@
 set -e
 
 export APP_NAME=testapp
-export ORG=amer-demo69
+export ORG=<APIGEE_EDGE_ORG>
 export CURRENT_DEV=josedev@google.com
 export NEW_DEV=josedev2@google.com
 
